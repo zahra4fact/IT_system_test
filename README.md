@@ -19,7 +19,7 @@ when the system is booting.  Do not change this entry.
 127.0.0.1 myservice.local
 ```
 ### Executing program
-First, Git clone this code to your machine running Docker (it is nessery to run instaling docker befor these steps):
+First, Git clone this code to your machine running Docker (it is nessery to run installing docker befor these steps):
 ```
 git clone https://github.com/zahra4fact/IT_system_test.git
 cd IT_system_test
