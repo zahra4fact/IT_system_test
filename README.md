@@ -22,7 +22,7 @@ when the system is booting.  Do not change this entry.
 First, Git clone this code to your machine running Docker(it is nessery to rub docker befor these steps):
 ```
 git clone https://github.com/zahra4fact/IT_system_test.git
-cd IT_system_testy
+cd IT_system_test
 ```
 secondly, run this code to read docker-compose.yml file
 ```
