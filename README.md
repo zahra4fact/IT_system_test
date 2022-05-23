@@ -9,7 +9,7 @@ The basic configuration of docker is:
 
 ### Requirment
 1) Installing docker 20.10.14 to up
-2) altering Ip 127.0.0.1 in the host files to myserver.local following this directory /etc/hosts in linux OS or C:\Windows\System32\drivers\etc\hosts in windows OS such as below:
+2) Altering Ip 127.0.0.1 in the host files to myservice.local following this directory /etc/hosts in linux OS or C:\Windows\System32\drivers\etc\hosts in windows OS such as below:
 
 ```
 #localhost is used to configure the loopback interface
